@@ -1,3 +1,12 @@
+@import url(./Source_Sans_Pro/SourceSansPro-Bold.ttf);
+
+@import url(./fontawesome-free-6.1.2-web/css/all.css);
+
+@font-face {
+  font-family: ProductSans;
+  src: url(./Source_Sans_Pro/SourceSansPro-Bold.ttf);
+}
+
 * {
   margin: 0;
   padding: 0;
